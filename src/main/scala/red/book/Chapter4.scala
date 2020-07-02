@@ -1,4 +1,4 @@
-package big.red
+package red.book
 
 import scala.{Option => _, Either => _, _}
 

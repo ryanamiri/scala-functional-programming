@@ -1,4 +1,4 @@
-package big.red
+package red.book
 
 object Chapter6 extends App {
 
